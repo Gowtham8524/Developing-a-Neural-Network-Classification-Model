@@ -192,7 +192,7 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 
 ### New Sample Data Prediction
-<img width="935" height="150" alt="Screenshot 2026-07-30 091527" src="https://github.com/user-attachments/assets/c1cfdc01-125d-43a9-a7ff-073c14dcf6b7" />
+<img width="885" height="127" alt="image" src="https://github.com/user-attachments/assets/ef46191d-2f81-498e-95e8-5befaa1290ec" />
 
 
 ## RESULT
